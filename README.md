@@ -18,7 +18,7 @@
 <li>⚡ Conversão automática ao digitar ou trocar moedas</li>
 <li>📱 Design responsivo</li>
 <br>
-<img src="https://github.com/andrealexandre31-code/Conversor-de-moeda/blob/main/foto%20conversor.png?raw=true" width="250px" heiht="100px"/>
+
 
 
 
